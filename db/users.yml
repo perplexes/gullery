@@ -1,0 +1,16 @@
+--- 
+- !ruby/object:User 
+  attributes: 
+    name: 
+    company: Fastripe
+    salt: 89a3accf285b9410919d38cf2aa419a882970f81
+    updated_at: 2008-06-12 21:36:31
+    crypted_password: 76c1b03bd19cad9bfed7176b52b12a4c336f591f
+    id: "1"
+    website: 
+    description: Hello!
+    login: tim
+    email: 
+    created_at: 2008-05-25 21:04:36
+  attributes_cache: {}
+

@@ -1,0 +1,11 @@
+form_for(:asset, @asset, :url => { :controller => 'assets', :action => 'create' }, 
+          :html => { :multipart => true, :onsubmit => "Element.show('loading')" } ) do | form |
+  self << form.hidden_field(:project_id, :value => params[:id])
+  self << "Photo: "
+  self << form.file_field(:file_field, :size => 10)
+  br
+  self << "Caption: "
+  self << form.text_field(:caption, :size => 20)
+  self << submit_tag("Save")
+  self << image_tag('spinner.gif', :style => 'display: none;', :id => 'loading')
+end

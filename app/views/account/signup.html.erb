@@ -1,0 +1,17 @@
+<%= error_messages_for :user %>
+
+<% form_for :user, @user do | form | %>
+  <p><label for="login">Login</label><br/>
+  <%= form.text_field(:login) %></p>
+
+  <p><label for="password">Password</label><br/>
+  <%= form.password_field(:password) %></p>
+
+  <p><label for="password_confirmation">Confirm Password</label><br/>
+  <%= form.password_field(:password_confirmation) %></p>
+
+  <p><label for="company">Name, Company, or Project Title</label><br/>
+  <%= form.text_field(:company) %></p>
+
+  <p><%= submit_tag 'Sign up' %></p>
+<% end %>

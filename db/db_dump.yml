@@ -1,0 +1,795 @@
+--- 
+- !ruby/object:User 
+  attributes: 
+    name: 
+    company: Fastripe
+    salt: 89a3accf285b9410919d38cf2aa419a882970f81
+    updated_at: 2008-06-12 21:36:31
+    crypted_password: 76c1b03bd19cad9bfed7176b52b12a4c336f591f
+    id: "1"
+    website: 
+    description: Hello!
+    login: tim
+    email: 
+    created_at: 2008-05-25 21:04:36
+  attributes_cache: {}
+
+--- 
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "12"
+    updated_at: 2008-06-12 21:34:22
+    type: 
+    id: "45"
+    caption: DSCN1366.JPG
+    path: /system/assets/1213331661.JPG
+    position: 
+    created_at: 2008-06-12 21:34:22
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "12"
+    updated_at: 2008-06-12 21:34:23
+    type: 
+    id: "46"
+    caption: DSCN1367.JPG
+    path: /system/assets/1213331662.JPG
+    position: 
+    created_at: 2008-06-12 21:34:23
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "12"
+    updated_at: 2008-06-12 21:34:24
+    type: 
+    id: "47"
+    caption: DSCN1368.JPG
+    path: /system/assets/1213331663.JPG
+    position: 
+    created_at: 2008-06-12 21:34:24
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "12"
+    updated_at: 2008-06-12 21:34:26
+    type: 
+    id: "48"
+    caption: DSCN1369.JPG
+    path: /system/assets/1213331664.JPG
+    position: 
+    created_at: 2008-06-12 21:34:26
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "12"
+    updated_at: 2008-06-12 21:34:27
+    type: 
+    id: "49"
+    caption: DSCN1370.JPG
+    path: /system/assets/1213331666.JPG
+    position: 
+    created_at: 2008-06-12 21:34:27
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "12"
+    updated_at: 2008-06-12 21:34:28
+    type: 
+    id: "50"
+    caption: DSCN1371.JPG
+    path: /system/assets/1213331667.JPG
+    position: 
+    created_at: 2008-06-12 21:34:28
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "12"
+    updated_at: 2008-06-12 21:34:29
+    type: 
+    id: "51"
+    caption: DSCN1372.JPG
+    path: /system/assets/1213331668.JPG
+    position: 
+    created_at: 2008-06-12 21:34:29
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "12"
+    updated_at: 2008-06-12 21:34:31
+    type: 
+    id: "52"
+    caption: DSCN1442.JPG
+    path: /system/assets/1213331669.JPG
+    position: 
+    created_at: 2008-06-12 21:34:31
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "12"
+    updated_at: 2008-06-12 21:34:32
+    type: 
+    id: "53"
+    caption: DSCN1457.JPG
+    path: /system/assets/1213331671.JPG
+    position: 
+    created_at: 2008-06-12 21:34:32
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "12"
+    updated_at: 2008-06-12 21:34:33
+    type: 
+    id: "54"
+    caption: DSCN1458.JPG
+    path: /system/assets/1213331672.JPG
+    position: 
+    created_at: 2008-06-12 21:34:33
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "12"
+    updated_at: 2008-06-12 21:34:34
+    type: 
+    id: "55"
+    caption: DSCN1466.JPG
+    path: /system/assets/1213331673.JPG
+    position: 
+    created_at: 2008-06-12 21:34:34
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "12"
+    updated_at: 2008-06-12 21:34:36
+    type: 
+    id: "56"
+    caption: DSCN1467.JPG
+    path: /system/assets/1213331674.JPG
+    position: 
+    created_at: 2008-06-12 21:34:36
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "12"
+    updated_at: 2008-06-12 21:34:37
+    type: 
+    id: "57"
+    caption: DSCN1468.JPG
+    path: /system/assets/1213331676.JPG
+    position: 
+    created_at: 2008-06-12 21:34:37
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "12"
+    updated_at: 2008-06-12 21:34:38
+    type: 
+    id: "58"
+    caption: DSCN1479.JPG
+    path: /system/assets/1213331677.JPG
+    position: 
+    created_at: 2008-06-12 21:34:38
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "12"
+    updated_at: 2008-06-12 21:34:39
+    type: 
+    id: "59"
+    caption: DSCN1480.JPG
+    path: /system/assets/1213331678.JPG
+    position: 
+    created_at: 2008-06-12 21:34:39
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "12"
+    updated_at: 2008-06-12 21:34:41
+    type: 
+    id: "60"
+    caption: DSCN1481.JPG
+    path: /system/assets/1213331679.JPG
+    position: 
+    created_at: 2008-06-12 21:34:41
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "13"
+    updated_at: 2008-06-12 21:34:42
+    type: 
+    id: "61"
+    caption: DSCN1373.JPG
+    path: /system/assets/1213331681.JPG
+    position: 
+    created_at: 2008-06-12 21:34:42
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:34:42
+    type: 
+    id: "62"
+    caption: Covercraft 1.jpg
+    path: /system/assets/1213331682.jpg
+    position: 
+    created_at: 2008-06-12 21:34:42
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:34:42
+    type: 
+    id: "63"
+    caption: Covercraft 2.jpg
+    path: /system/assets/1213331682.jpg
+    position: 
+    created_at: 2008-06-12 21:34:42
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:34:43
+    type: 
+    id: "64"
+    caption: Covercraft 3.jpg
+    path: /system/assets/1213331682.jpg
+    position: 
+    created_at: 2008-06-12 21:34:43
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:34:43
+    type: 
+    id: "65"
+    caption: Covercraft 4.jpg
+    path: /system/assets/1213331683.jpg
+    position: 
+    created_at: 2008-06-12 21:34:43
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:34:44
+    type: 
+    id: "66"
+    caption: DSCN1360.JPG
+    path: /system/assets/1213331683.JPG
+    position: 
+    created_at: 2008-06-12 21:34:44
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:34:45
+    type: 
+    id: "67"
+    caption: DSCN1361.JPG
+    path: /system/assets/1213331684.JPG
+    position: 
+    created_at: 2008-06-12 21:34:45
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:34:47
+    type: 
+    id: "68"
+    caption: DSCN1362.JPG
+    path: /system/assets/1213331685.JPG
+    position: 
+    created_at: 2008-06-12 21:34:47
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:34:48
+    type: 
+    id: "69"
+    caption: DSCN1363.JPG
+    path: /system/assets/1213331687.JPG
+    position: 
+    created_at: 2008-06-12 21:34:48
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:34:49
+    type: 
+    id: "70"
+    caption: DSCN1364.JPG
+    path: /system/assets/1213331688.JPG
+    position: 
+    created_at: 2008-06-12 21:34:49
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:34:50
+    type: 
+    id: "71"
+    caption: DSCN1365.JPG
+    path: /system/assets/1213331689.JPG
+    position: 
+    created_at: 2008-06-12 21:34:50
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:34:52
+    type: 
+    id: "72"
+    caption: DSCN1374.JPG
+    path: /system/assets/1213331690.JPG
+    position: 
+    created_at: 2008-06-12 21:34:52
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:34:53
+    type: 
+    id: "73"
+    caption: DSCN1375.JPG
+    path: /system/assets/1213331692.JPG
+    position: 
+    created_at: 2008-06-12 21:34:53
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:34:54
+    type: 
+    id: "74"
+    caption: DSCN1376.JPG
+    path: /system/assets/1213331693.JPG
+    position: 
+    created_at: 2008-06-12 21:34:54
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:34:55
+    type: 
+    id: "75"
+    caption: DSCN1377.JPG
+    path: /system/assets/1213331694.JPG
+    position: 
+    created_at: 2008-06-12 21:34:55
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:34:57
+    type: 
+    id: "76"
+    caption: DSCN1378.JPG
+    path: /system/assets/1213331695.JPG
+    position: 
+    created_at: 2008-06-12 21:34:57
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:34:58
+    type: 
+    id: "77"
+    caption: DSCN1435.JPG
+    path: /system/assets/1213331697.JPG
+    position: 
+    created_at: 2008-06-12 21:34:58
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:34:59
+    type: 
+    id: "78"
+    caption: DSCN1436.JPG
+    path: /system/assets/1213331698.JPG
+    position: 
+    created_at: 2008-06-12 21:34:59
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:00
+    type: 
+    id: "79"
+    caption: DSCN1437.JPG
+    path: /system/assets/1213331699.JPG
+    position: 
+    created_at: 2008-06-12 21:35:00
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:02
+    type: 
+    id: "80"
+    caption: DSCN1438.JPG
+    path: /system/assets/1213331700.JPG
+    position: 
+    created_at: 2008-06-12 21:35:02
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:03
+    type: 
+    id: "81"
+    caption: DSCN1439.JPG
+    path: /system/assets/1213331702.JPG
+    position: 
+    created_at: 2008-06-12 21:35:03
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:04
+    type: 
+    id: "82"
+    caption: DSCN1440.JPG
+    path: /system/assets/1213331703.JPG
+    position: 
+    created_at: 2008-06-12 21:35:04
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:05
+    type: 
+    id: "83"
+    caption: DSCN1441.JPG
+    path: /system/assets/1213331704.JPG
+    position: 
+    created_at: 2008-06-12 21:35:05
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:07
+    type: 
+    id: "84"
+    caption: DSCN1443.JPG
+    path: /system/assets/1213331705.JPG
+    position: 
+    created_at: 2008-06-12 21:35:07
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:08
+    type: 
+    id: "85"
+    caption: DSCN1444.JPG
+    path: /system/assets/1213331707.JPG
+    position: 
+    created_at: 2008-06-12 21:35:08
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:09
+    type: 
+    id: "86"
+    caption: DSCN1445.JPG
+    path: /system/assets/1213331708.JPG
+    position: 
+    created_at: 2008-06-12 21:35:09
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:10
+    type: 
+    id: "87"
+    caption: DSCN1450.JPG
+    path: /system/assets/1213331709.JPG
+    position: 
+    created_at: 2008-06-12 21:35:10
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:12
+    type: 
+    id: "88"
+    caption: DSCN1451.JPG
+    path: /system/assets/1213331710.JPG
+    position: 
+    created_at: 2008-06-12 21:35:12
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:13
+    type: 
+    id: "89"
+    caption: DSCN1452.JPG
+    path: /system/assets/1213331712.JPG
+    position: 
+    created_at: 2008-06-12 21:35:13
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:14
+    type: 
+    id: "90"
+    caption: DSCN1453.JPG
+    path: /system/assets/1213331713.JPG
+    position: 
+    created_at: 2008-06-12 21:35:14
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:15
+    type: 
+    id: "91"
+    caption: DSCN1454.JPG
+    path: /system/assets/1213331714.JPG
+    position: 
+    created_at: 2008-06-12 21:35:15
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:16
+    type: 
+    id: "92"
+    caption: DSCN1455.JPG
+    path: /system/assets/1213331715.JPG
+    position: 
+    created_at: 2008-06-12 21:35:16
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:18
+    type: 
+    id: "93"
+    caption: DSCN1456.JPG
+    path: /system/assets/1213331716.JPG
+    position: 
+    created_at: 2008-06-12 21:35:18
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:19
+    type: 
+    id: "94"
+    caption: DSCN1459.JPG
+    path: /system/assets/1213331718.JPG
+    position: 
+    created_at: 2008-06-12 21:35:19
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:20
+    type: 
+    id: "95"
+    caption: DSCN1460.JPG
+    path: /system/assets/1213331719.JPG
+    position: 
+    created_at: 2008-06-12 21:35:20
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:21
+    type: 
+    id: "96"
+    caption: DSCN1461.JPG
+    path: /system/assets/1213331720.JPG
+    position: 
+    created_at: 2008-06-12 21:35:21
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:22
+    type: 
+    id: "97"
+    caption: DSCN1462.JPG
+    path: /system/assets/1213331721.JPG
+    position: 
+    created_at: 2008-06-12 21:35:22
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:24
+    type: 
+    id: "98"
+    caption: DSCN1463.JPG
+    path: /system/assets/1213331722.JPG
+    position: 
+    created_at: 2008-06-12 21:35:24
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:25
+    type: 
+    id: "99"
+    caption: DSCN1464.JPG
+    path: /system/assets/1213331724.JPG
+    position: 
+    created_at: 2008-06-12 21:35:25
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:26
+    type: 
+    id: "100"
+    caption: DSCN1465.JPG
+    path: /system/assets/1213331725.JPG
+    position: 
+    created_at: 2008-06-12 21:35:26
+  attributes_cache: {}
+
+- !ruby/object:Asset 
+  attributes: 
+    is_visible: t
+    project_id: "14"
+    updated_at: 2008-06-12 21:35:27
+    type: 
+    id: "101"
+    caption: DSCN1482.JPG
+    path: /system/assets/1213331726.JPG
+    position: 
+    created_at: 2008-06-12 21:35:27
+  attributes_cache: {}
+
+--- 
+- !ruby/object:Project 
+  attributes: 
+    name: flames
+    is_visible: t
+    updated_at: 2008-06-12 21:34:21
+    id: "12"
+    description: 
+    user_id: "1"
+    position: 
+    created_at: 2008-06-12 21:34:21
+  attributes_cache: {}
+
+- !ruby/object:Project 
+  attributes: 
+    name: lettering
+    is_visible: t
+    updated_at: 2008-06-12 21:34:41
+    id: "13"
+    description: 
+    user_id: "1"
+    position: 
+    created_at: 2008-06-12 21:34:41
+  attributes_cache: {}
+
+- !ruby/object:Project 
+  attributes: 
+    name: striping
+    is_visible: t
+    updated_at: 2008-06-12 21:34:42
+    id: "14"
+    description: 
+    user_id: "1"
+    position: 
+    created_at: 2008-06-12 21:34:42
+  attributes_cache: {}
+
