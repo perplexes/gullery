@@ -8,4 +8,4 @@
     - Changed Asset model to use RMagick instead of MiniMagick
 
 ??? - 0.0.1
-   - Initial version by Geoffrey Grossenbach
+   - Initial version by Geoffrey Grosenbach
