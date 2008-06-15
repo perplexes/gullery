@@ -1,0 +1,11 @@
+15 June 2008 - 0.0.2
+  - Upgraded to Rails 2.0
+    - Changed start_form_tag to form_tag do
+    - Hacked some Markaby (and some Rails) to work with Rails 2.0
+    - Added in_place_editor plugin, and hacked in highlight_color and 
+      highlight_end_color as options (otherwise it looks bad on black backgrounds)
+  - Works on Heroku
+    - Changed Asset model to use RMagick instead of MiniMagick
+
+??? - 0.0.1
+   - Initial version by Geoffrey Grossenbach
